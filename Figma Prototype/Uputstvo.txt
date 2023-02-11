@@ -1,0 +1,39 @@
+!!!BITNE NAPOMENE!!!
+--------------
+:Da bi videli sta je sve clickable na stranici, kliknite bilo gde sa strane sto ne predstavlja dugme/sadrzaj stranice ili jednostavno
+na crnu pozadinu okolo slajdova koji predstavljaju ekran aplikacije. Svaki clickable deo ce se uokviriti svetlo plavom bojom:
+
+Primer: kada ste na stranici za Desavanja u zoo vrtu za Posetioca u Web aplikaciji, slobodno kliknite na sivi deo i videcete sta je sve
+clickable na toj stranici, jer ce biti uokvireno svetlo plavo bojom.
+
+-da bi Vam prikaz Web aplikacije bio lepsi, imate gore desno opciju Options: Fit to screen!
+-da bi saltali web/mob aplikacija, imate gore levo opciju main menu => Web app/mobile app
+--------------
+WEB Aplikacija:
+	-klikom na radio dugmad Zaposleni/Posetilac odlazi se na odgovarajucu pocetnu stranicu.
+	-na svako dugme je moguce kliknuti.
+	-Zaposleni:
+		-Pregled zahteva za ulaznicama: moguce je kliknuti na stiklicu i iks u prvom redu:
+			- nakon klika na stiklicu, moguce je kliknuti na stiklicu i iks u drugom redu
+			- nakon klika na iks, vise nije moguce kliknuti ni na sta, sem na Odjava i Nazad
+		-Dodavanje zivotinja:
+			- moguce je odmah kliknuti na Dodaj zivotinju, Odjava, Nazad
+			- moguce je kliknuti na default-nu sliku da se odabere slika lokalno sa racunara, a zatim na OK i CANCEL
+			- moguce je odabrati neku od predefinisanih slika, nakon cega se moze ona i promeniti
+			  birajuci novu sliku iz predefinisanih slika, ili lokalno sa racunara
+	-Posetilac:
+		-Na stranici Moja korpa, moguce je kliknuti na X, na dugme KUPI ULAZNICE, ili na polje za unos promo koda
+		 nakon cega se opet moze kliknuti na sve sto je navedeno. Na nekim stranicama koje spadaju u Moju Korpu je
+		 implementiran los promo kod, a na nekim ispravan promo kod, sto ce se videti nakon klika na KUPI ULAZNICE
+		-Desavanja u zoo vrtu: mozete kliknuti i na srce za lajk desavanja, nakon cega ce broj lajkova biti uvecan
+		 ili na strelice za navigaciju kroz sva desavanja.
+		-Na stranici za pregled Zivotinja, nakon odabira odredjene zivotinje, kliknite na dugme Prikazi komentare,
+		 a zatim na KOMENTARISI, nakon cega ce iskociti odgovarajuca poruka.
+
+MOBILNA APLIKACIJA:
+	-za mobilnu aplikaciju vazi sve gore navedeno, plus jos i:
+		-na stranici za prikaz zivotinja, slobodno skrolujte pomocu srednjeg tastera misa, ili zadrzavanjem levog
+		 klika misa i njegovim pomeranjem gore/dole. Naravno levi klik i njegovo zadrzavanje a zatim pomeranje
+		 gore/dole mora se uraditi na samom prikazu telefona, ispod Zivotinje(gore, zelenom bojom) i NAZAD dugmeta
+		 (pri dnu ekrana telefona).
+		
