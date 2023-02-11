@@ -1,0 +1,9 @@
+There are 2 types of user accounts: visitor and salesman. Every person needs to log in into system. There is Register functionality for 
+new users, and log out option for all users. Everybody can see and change their own account details including their password. There is 
+page with available tickets where you can see their price and add them to your shopping basket. You can remove items from your 
+shopping basket, and you can also enter promo code for discount. There is also a page that shows you events in Zoo. You can like 
+specific event and see total number of likes for every event. You can also visit the page with all the animals in the Zoo, and by clicking 
+on animal's picture, you're being redirected on the page with animal's details and user comments about animal. You can always see a 
+list of incoming notifications (order accepted or rejected by salesman) and a page with contact information for the zoo. Salesman can 
+accept or reject specific order from the customers. Salesman can also add new animals into the Zoo database and choose animal's 
+picture.
